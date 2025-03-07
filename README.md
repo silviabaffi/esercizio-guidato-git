@@ -4,11 +4,15 @@ git init
 
 git add README.md
 
-git commit -m "Aggiunta README"
+git add index.html
 
-git remode add origin https://github.com/silviabaffi/esercizio-guidato-git.git
+git commit -m "Aggiunta index e README"
 
-git push -u origin main
+git branch -M main
+
+git remote add origin https://github.com/silviabaffi/esercizio-guidato-git.git
+
+git push --set-upstream origin main
 
 git branch secondabranch
 
