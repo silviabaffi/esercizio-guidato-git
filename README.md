@@ -30,4 +30,6 @@ Pull request e successivo merge effettuato su GitHub
 
 Seconda modifica effettuata all'index.html
 
+git add index.html
+
 Merge e push effettuato da GitHub Desktop
