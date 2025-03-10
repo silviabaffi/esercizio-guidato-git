@@ -32,4 +32,6 @@ Seconda modifica effettuata all'index.html
 
 git add index.html
 
+git commit -m "Seconda modifica"
+
 Merge e push effettuato da GitHub Desktop
